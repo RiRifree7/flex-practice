@@ -18,7 +18,7 @@ Flex Items
     flex basis
     flex
 
-    Let's Get Looney In Code
-    !(Coding Looney Tunes GIF) (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU0Y2ZhMDNmMWRiMDJjMTczZTZjYjA0ZGNkY2JiNWQ0MGY5MDUyYSZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
+    Let's Get Looney In Code <br>
+    ! (Coding Looney Tunes GIF) (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWU0Y2ZhMDNmMWRiMDJjMTczZTZjYjA0ZGNkY2JiNWQ0MGY5MDUyYSZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
 
     
